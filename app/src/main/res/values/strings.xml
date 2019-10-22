@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas Widget</string>
+    <string-array name="spinner_country">
+        <item>Indonesia</item>
+        <item>Jepang</item>
+        <item>Korea</item>
+        <item>Amerika</item>
+        <item>Kanada</item>
+    </string-array>
+</resources>

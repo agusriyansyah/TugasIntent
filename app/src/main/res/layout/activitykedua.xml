@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#03A9F4"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/id_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="25dp"
+        android:background="#FFFFFF"
+        android:text="Tittle"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/id_db"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:background="#FFFFFF"
+        android:text="DirectedBy"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/id_hp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:background="#FFFFFF"
+        android:text="HomeProduction"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/id_kategori"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:background="#FFFFFF"
+        android:text="Kategori"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/id_bu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:background="#FFFFFF"
+        android:text="Batas Usia"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/id_country"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:background="#FFFFFF"
+        android:text="Country"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/id_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:background="#FFFFFF"
+        android:text="Date"
+        android:textAlignment="center" />
+</LinearLayout>
